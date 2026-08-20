@@ -1,0 +1,10 @@
+.env
+.env.*
+last_run.json
+results_log.jsonl
+last_run_local.json
+dual_results_log.jsonl
+hidden_state_features_log.jsonl
+probe_classifier.pkl
+__pycache__/
+*.pyc

@@ -1,0 +1,5 @@
+Product Team Update - September
+
+Launched v2.3 with dark mode and offline sync.
+Bug reports down 18% since last release.
+Next sprint planning scheduled for Oct 3.
