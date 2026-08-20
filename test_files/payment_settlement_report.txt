@@ -1,0 +1,6 @@
+Payment Settlement Report - Week of Sept 15
+
+Gateway settlement total: Rs 18,45,000
+Transactions processed: 2,450
+Refunds issued: Rs 85,000
+Status: Fully reconciled, no discrepancies.
